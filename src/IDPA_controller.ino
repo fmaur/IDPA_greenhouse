@@ -24,8 +24,8 @@ DFRobot_DHT11 DHT;
 /* =======================
    MOISTURE THRESHOLDS
    ======================= */
-#define MOISTURE_LOW   400
-#define MOISTURE_HIGH  500
+#define MOISTURE_LOW   600
+#define MOISTURE_HIGH  800
 
 /* =======================
    STATE VARIABLES
